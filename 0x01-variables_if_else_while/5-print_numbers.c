@@ -1,17 +1,17 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
- * main - prints allsingle digit numbers of 
+ * main -prints allsingle digit numbers of
  * base 10 from 0
  * Return: Always 0 (success)
  */
 int main(void)
 {
-	int Num;
+	int a;
 
-	for (Num = 0; Num < 10; Num++)
+	for (a = 0; a < 10; a++)
 	{
-		printf("%d", Num);
+		printf("%d", a);
 	}
 	putchar('\n');
 	return (0);
