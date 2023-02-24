@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
- * main -prints allsingle digit numbers of 
+ * main - prints allsingle digit numbers of 
  * base 10 from 0
  * Return: Always 0 (success)
  */
