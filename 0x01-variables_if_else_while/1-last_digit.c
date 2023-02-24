@@ -2,8 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- * main funcation - positive_or_negative
- * Description:  print the last digit of the number stored in the variable n.
+ * main - print the last digit of the number stored in the variable n
  * Return: 0
  */
 int main(void)
