@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * main -  prints 'Holberton \n'
+ * main -  prints '_putchar \n'
  * Return: Always 0 (success)
  */
 int main(void)
