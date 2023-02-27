@@ -2,6 +2,7 @@
 
 /**
  * _islower - Test wheter  c is lowercase
+ * * @c: Caracter to test
  *
  * Return: 1 if c is lowercase, 0 otherwise.
  */
