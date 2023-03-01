@@ -1,10 +1,11 @@
 #include "main.h"
 
 /**
- * add - adds two integers .
+ * add - Add two numbers.
  * @x: First paramater
  * @y: Second paramater
- * @s:sum of returns the result
+ *
+ * Return: Sum to two numbers
  */
 
 int add(int x, int y)
