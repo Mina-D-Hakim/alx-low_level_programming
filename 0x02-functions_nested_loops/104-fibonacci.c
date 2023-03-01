@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
 
 /**
  * main - Entry point
@@ -10,16 +9,20 @@
 int main(void)
 {
 	float first, second, next;
+	int c;
 
 	first = 1;
 	second = 2;
+	c = 2;
+
 	printf("%.f, %.f", first, second);
-	for (int c = 2; c < 98; c++)
+	while (c  < 98)
 	{
 		next = first + second;
 		first = second;
 		second = next;
 		printf(", %.f", next);
+		c++;
 	}
 	printf("\n");
 	return (0);
