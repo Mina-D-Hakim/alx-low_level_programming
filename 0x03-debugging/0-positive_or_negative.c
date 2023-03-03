@@ -7,7 +7,7 @@
  *
  * Return: 0
  */
-int main( int n;){
+int positive_or_negative( int n;){
 
        
         
