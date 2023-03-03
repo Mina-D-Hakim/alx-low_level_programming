@@ -4,7 +4,7 @@
  *
  * Return: 0
  */
-int positive_or_negative( int n;){
+int positive_or_negative( int n){
 
 
 
