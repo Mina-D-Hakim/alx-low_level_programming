@@ -1,13 +1,16 @@
 #include "main.h"
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
 /**
  * main - entry point
  *
  * Return: 0
  */
-int positive_or_negative(int n)
+int main(int n)
 {
-
-	if (n > 0)
+       
+        if (n > 0)
         {
                 printf("%d is positive\n", n);
         }
@@ -21,3 +24,4 @@ int positive_or_negative(int n)
         }
         return (0);
 }
+
