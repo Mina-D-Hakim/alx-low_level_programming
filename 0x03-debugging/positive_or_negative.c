@@ -4,10 +4,8 @@
  *
  * Return: 0
  */
-int positive_or_negative( int n){
-
-
-
+int positive_or_negative(int n)
+{
         if (n > 0)
         {
                 printf("%d is positive\n", n);
