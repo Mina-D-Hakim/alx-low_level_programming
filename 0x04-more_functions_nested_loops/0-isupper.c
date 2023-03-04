@@ -4,6 +4,7 @@
 * _isupper : int _isupper(int c);
 * Returns 1 if c is uppercase
 * Returns 0 otherwise
+* @c:the number to be checked 
 */
 int _isupper(int c)
 {
