@@ -6,8 +6,8 @@
  * Return: An encode string
  */
 char *rot13(char *s)
-{
-	int i = 0;
+{      
+       	int i = 0;
 
 	while (s[i] != '\0')
 	{
